@@ -1,0 +1,18 @@
+smart-toll-backend/
+│
+├── node_modules/
+├── src/
+│   ├── config/
+│   │     └── firebase.js
+│   │
+│   ├── routes/
+│   │     └── users.js
+│   │
+│   ├── controllers/
+│   │     └── usersController.js
+│   │
+│   └── server.js
+│
+├── .env
+├── .gitignore
+├── package.json

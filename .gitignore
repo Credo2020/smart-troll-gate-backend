@@ -1,0 +1,6 @@
+node_modules
+.env
+npm-debug.log*
+yarn-debug.log*
+smart-toll-gate-d834d-firebase-adminsdk-fbsvc-5ac3f30bd3.json
+config/smart-toll-gate-d834d-firebase-adminsdk-fbsvc-5ac3f30bd3.json
